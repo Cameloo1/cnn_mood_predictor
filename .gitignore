@@ -1,6 +1,14 @@
-# Ignore large model files
-*.h5
+# Ignore dataset files
+dataset/
+*.csv
 *.npy
+*.zip
+
+# Ignore model checkpoints & large files
+*.h5
+*.hdf5
 __pycache__/
 env/
 venv/
+.DS_Store
+*.log
