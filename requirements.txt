@@ -5,3 +5,4 @@ tflite-runtime
 opencv-python-headless
 gdown
 matplotlib
+python-multipart
