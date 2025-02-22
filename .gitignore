@@ -1,0 +1,6 @@
+# Ignore large model files
+*.h5
+*.npy
+__pycache__/
+env/
+venv/
